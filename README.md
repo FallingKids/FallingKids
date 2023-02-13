@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey👋, I'm Peter
 
-<!--
-**FallingKids/FallingKids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/github/stars/FallingKids?label=Stars&style=social)](https://github.com/FallingKids)
 
-Here are some ideas to get you started:
+[![bilibili](https://img.shields.io/badge/-Bilibili-d99?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/537719)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![zhihu](https://img.shields.io/badge/-Zhihu-blue?style=flat&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/kitekii)
+
+I'm a Nodejs developer. 
+
+- I love [Node.js](https://nodejs.org/en/) and [Go](https://golang.org).
+- Long-time Node.js user
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallingKids&hide=html,css,less,java,vue,javascript,FreeMarker,Php,scss,makefile)
+![FallingKids's github stats](https://github-readme-stats.vercel.app/api?username=FallingKids&show_icons=true&theme=radical&count_private=true&line_height=40)
