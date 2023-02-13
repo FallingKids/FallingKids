@@ -11,5 +11,5 @@ I'm a Nodejs developer.
 - I love [Node.js](https://nodejs.org/en/) and [Go](https://golang.org).
 - Long-time Node.js user
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallingKids&hide=html,css,less,java,vue,javascript,FreeMarker,Php,scss,makefile)
-![FallingKids's github stats](https://github-readme-stats.vercel.app/api?username=FallingKids&show_icons=true&theme=radical&count_private=true&line_height=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallingKids&hide=html,css,less,java,vue,FreeMarker,Php,scss,makefile)
+![FallingKids's github stats](https://github-readme-stats.vercel.app/api?username=FallingKids&show_icons=true&theme=radical&count_private=true&line_height=40)
