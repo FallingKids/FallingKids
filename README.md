@@ -12,4 +12,4 @@ I'm a Nodejs developer.
 - Long-time Node.js user
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallingKids&hide=html,css,less,java,vue,javascript,FreeMarker,Php,scss,makefile)
-![FallingKids's github stats](https://github-readme-stats.vercel.app/api?username=FallingKids&show_icons=true&theme=radical&count_private=true&line_height=40)
+![FallingKids's github stats](https://github-readme-stats.vercel.app/api?username=FallingKids&show_icons=true&theme=radical&count_private=true&line_height=30)
